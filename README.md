@@ -17,7 +17,7 @@ Trabajo con:
 
 ## 🚀 Tecnologías que uso
 **🔌 Hardware & Electrónica**
-- Arduino, ESP32  
+- Arduino  
 - Sensores analógicos y digitales  
 - Motores DC, servos y drivers simples  
 - Prototipos en protoboard o MDF  
